@@ -1,2 +1,2 @@
 # Python
-Record my Python learning process
+Record my Python learning process.
